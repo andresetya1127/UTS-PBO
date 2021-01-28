@@ -110,8 +110,9 @@ public class frame2 extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBackground(new java.awt.Color(153, 153, 0));
 
-        jTable1.setBackground(new java.awt.Color(204, 255, 255));
+        jTable1.setBackground(new java.awt.Color(153, 153, 0));
         jTable1.setFont(new java.awt.Font("Traditional Arabic", 2, 14)); // NOI18N
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
